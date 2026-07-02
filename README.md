@@ -23,8 +23,8 @@ Analizar la rentabilidad de diferentes países utilizando métricas financieras 
 - ROI
 
 ## 📸 Vista del proyecto
+![Resultados del análisis](./Analisis%20financiero%20con%20SQL.png)
 
-![Resultados del análisis](Analisis financiero con SQL.png)
 ## 💡 Principales hallazgos
 
 - Estados Unidos presentó el mayor ROI.
