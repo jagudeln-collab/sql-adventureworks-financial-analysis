@@ -28,6 +28,22 @@ Analizar la rentabilidad de diferentes países utilizando métricas financieras 
 
 👉 [Ver Dashboard en Google Sheets](https://docs.google.com/spreadsheets/d/1Kgj8w3k6UEifEObktwWUw5axBnUb8-vZSJ16Tp9J7LA/edit)
 
+## 📈 Resumen ejecutivo
+
+El análisis permitió identificar qué países generan mayor rentabilidad y cuáles presentan mayores costos de campaña.
+
+Los resultados muestran que Estados Unidos obtiene el ROI más alto mientras que algunos países europeos presentan costos elevados que reducen su eficiencia comercial.
+
+## 💻 Consultas SQL destacadas
+
+Durante el proyecto utilicé consultas SQL para:
+
+- Calcular ingresos y costos por país.
+- Obtener el Beneficio Bruto.
+- Calcular Margen (%).
+- Calcular ROI.
+- Comparar el desempeño financiero entre países.
+
 ## 💡 Principales hallazgos
 
 - Estados Unidos presentó el mayor ROI.
@@ -36,7 +52,7 @@ Analizar la rentabilidad de diferentes países utilizando métricas financieras 
 
 ## 🔗 Proyecto original
 
-Este proyecto fue desarrollado durante el Bootcamp de Análisis de Datos de TripleTen.
+Este proyecto fue desarrollado por mí como parte del Bootcamp de Análisis de Datos de TripleTen, realizando el análisis financiero completo con SQL y documentando los principales hallazgos.
 
 
 ## 💼 Habilidades demostradas
