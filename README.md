@@ -1,2 +1,54 @@
-# sql-adventureworks-financial-analysis
-Análisis del desempeño financiero utilizando SQL y Adventure Works.
+# 📊 Análisis del Desempeño Financiero con SQL
+
+## 📌 Descripción
+
+En este proyecto analicé el desempeño financiero de Adventure Works utilizando SQL para calcular indicadores clave (KPIs), evaluar el rendimiento por país y generar recomendaciones basadas en datos.
+
+---
+
+## 🎯 Objetivo
+
+Analizar la rentabilidad de diferentes países utilizando métricas financieras como ingresos, costos, beneficio bruto, margen y ROI para apoyar la toma de decisiones.
+
+---
+
+## 🛠 Herramientas utilizadas
+
+- SQL
+- Google Sheets
+- Adventure Works
+
+---
+
+## 📈 KPIs analizados
+
+- Ingresos
+- Costos
+- Beneficio Bruto
+- Margen (%)
+- ROI
+
+---
+
+## 💡 Principales hallazgos
+
+- Estados Unidos presentó el mayor ROI.
+- Se identificaron diferencias importantes entre países.
+- El aumento del gasto en campañas no garantiza un incremento proporcional del ROI.
+
+---
+
+## 📂 Proyecto original
+
+Proyecto desarrollado durante el Bootcamp de Análisis de Datos de TripleTen.
+
+🔗 Proyecto:
+https://docs.google.com/spreadsheets/d/1Kgj8w3k6UEifEObktwWUw5axBnUb8-vZSJ16Tp9J7LA/edit
+
+---
+
+## 👨‍💻 Autor
+
+Jaime Agudelo
+
+Bootcamp Data Analytics | SQL | Python | Power BI
