@@ -23,7 +23,7 @@ Analizar la rentabilidad de diferentes países utilizando métricas financieras 
 - ROI
 
 ## 📸 Vista del proyecto
-![Resultados del análisis](./Analisis%20financiero%20con%20SQL.png)
+👉 [Ver Dashboard en Google Sheets](<img src="Analisis%20financiero%20con%20SQL.png" width="1000">)
 
 ## 💡 Principales hallazgos
 
@@ -38,6 +38,16 @@ Este proyecto fue desarrollado durante el Bootcamp de Análisis de Datos de Trip
 **Enlace al proyecto:**
 
 https://docs.google.com/spreadsheets/d/1Kgj8w3k6UEifEObktwWUw5axBnUb8-vZSJ16Tp9J7LA/edit
+
+## 💼 Habilidades demostradas
+
+- SQL
+- Análisis financiero
+- Limpieza de datos
+- Cálculo de KPIs
+- Storytelling con datos
+- Interpretación de resultados
+- Toma de decisiones basada en datos
 
 ## 👨‍💻 Autor
 
