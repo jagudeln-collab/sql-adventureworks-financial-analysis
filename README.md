@@ -23,7 +23,10 @@ Analizar la rentabilidad de diferentes países utilizando métricas financieras 
 - ROI
 
 ## 📸 Vista del proyecto
-👉 [Ver Dashboard en Google Sheets](<img src="Analisis%20financiero%20con%20SQL.png" width="1000">)
+
+<img src="Analisis%20financiero%20con%20SQL.png" width="900">
+
+👉 [Ver Dashboard en Google Sheets](https://docs.google.com/spreadsheets/d/1Kgj8w3k6UEifEObktwWUw5axBnUb8-vZSJ16Tp9J7LA/edit)
 
 ## 💡 Principales hallazgos
 
@@ -35,9 +38,6 @@ Analizar la rentabilidad de diferentes países utilizando métricas financieras 
 
 Este proyecto fue desarrollado durante el Bootcamp de Análisis de Datos de TripleTen.
 
-**Enlace al proyecto:**
-
-https://docs.google.com/spreadsheets/d/1Kgj8w3k6UEifEObktwWUw5axBnUb8-vZSJ16Tp9J7LA/edit
 
 ## 💼 Habilidades demostradas
 
