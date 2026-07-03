@@ -36,7 +36,7 @@ Los resultados muestran que Estados Unidos obtiene el ROI más alto mientras que
 
 ## 💻 Consultas SQL destacadas
 
-Durante el proyecto utilicé consultas SQL para:
+Durante el proyecto desarrollé consultas SQL para:
 
 - Calcular ingresos y costos por país.
 - Obtener el Beneficio Bruto.
@@ -64,6 +64,18 @@ Este proyecto fue desarrollado por mí como parte del Bootcamp de Análisis de D
 - Storytelling con datos
 - Interpretación de resultados
 - Toma de decisiones basada en datos
+
+## 🛠 Competencias técnicas
+
+- SQL
+- GROUP BY
+- JOIN
+- CTE
+- Funciones de agregación
+- CASE WHEN
+- COALESCE
+- Cálculo de KPIs
+- Análisis financiero
 
 ## 👨‍💻 Autor
 
